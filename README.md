@@ -37,7 +37,6 @@ I am actively seeking a 1-month discovery internship for this July/August in Dat
 ### 🔍 Algorithmic Modeling & Data Processing
 - Implemented core mathematical models and algorithmic logic to strengthen my quantitative engineering foundations using **C++** and **Java**.
 - Conducted statistical computing and probability analysis using **R**, while managing datasets with **SQL**.
-- Currently exploring Deep Learning concepts and their potential applications in quantitative finance using **PyTorch**.
 
 ---
 
